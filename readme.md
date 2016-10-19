@@ -30,7 +30,7 @@ while(r!=0)
    b=r;
 }
 ```  
-3. do...while
+3.do...while  
 - Cú pháp: 
 ```sh
 do  S
