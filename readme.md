@@ -29,7 +29,7 @@ while(r!=0)
    a=b;
    b=r;
 }
-```
+```  
 3. do...while
 - Cú pháp: 
 ```sh
